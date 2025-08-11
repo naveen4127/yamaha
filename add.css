@@ -1,0 +1,186 @@
+header{
+   
+   display: flex;
+    background-image:linear-gradient(135deg, #000000 50%, #141313 100%);;
+    height: 150px;
+    width: 110%;
+    position: sticky;
+    top: 0;
+    
+   
+}
+ul li{
+
+      display: inline;
+    padding-left: 85px;
+    padding-right: 35px;
+    color:white;
+    font-size: 20px; 
+    font-family: Arial, sans-serif;
+}
+h1{
+    font-size: xx-large;
+    color: red;
+    padding-bottom: 1%;
+    font-family: 'Roboto', sans-serif;
+}
+
+#about h2{
+    color: whitesmoke;
+    font-size: 50px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    
+}
+ #pro{
+    display:flex;
+    align-items:center;
+    background-color: black;
+    color: wheat;
+    width: 101%;
+
+
+}
+#pro pre{
+    font-size: 16px;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+    #pro img{
+        border: 5px  ;
+        border-radius: 10px;
+        padding: 5px;
+        box-shadow: wheat;
+        border-color: aliceblue;
+     
+    }
+    #about{
+        background-image: url(bike.jpg);
+        padding-block-end: 30px;
+        padding-block-start: 30px;
+        width: 101%;
+    }
+
+#home{
+    width: 100%;
+    height: 700px;
+    background-color: black;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 50px 50px 0px 2px;
+    display: inline-block;
+    padding-right: 100px;
+}
+#product{
+    width: 100%;
+    height: 700px;
+    background-color: wheat;
+    overflow: auto auto;
+    white-space: nowrap;
+    padding: 1px;
+}
+#product .video{
+    display: inline-block;
+    width:100%;
+  
+}
+#dealers h1{
+  background-color: wheat;
+    color: white;
+    font-size: large;
+}
+.ban img{
+    width: 101%;
+    padding-top:3% ;
+    padding-bottom: 3%;
+}
+.p1 img{
+    padding-top:10%;
+}
+.p1{
+     width: 92%;
+    height: 200px;
+    background-color: black;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 50px 50px 0px 2px;
+    display: inline-block;
+    padding-right: 100px;
+}
+.p1 {
+  display: flex;
+  flex-wrap: nowrap;
+  
+}
+#bikes{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    overflow: auto auto;
+    white-space: nowrap;
+    padding: 100px 100px 0px 2px;
+    
+}
+#bikes .img{
+    display: inline-block;
+    padding-right: 100px;
+    margin-top: -9%;
+}
+#dealers h2{
+background-color: rgb(250, 248, 248);
+    text-align: center;
+    font-size: 70px;
+    padding: 10px;
+   font-family: Arial, sans-serif;
+    color: black;
+    width: 100%;
+}
+.ban2 img {
+    padding-top: 2%;
+  
+}
+#events h2{
+    width: 100%;
+    padding: 1%;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+     color: black;     
+     
+     background-color: whitesmoke;
+}
+
+footer pre{
+    padding-top: 3%;
+font-size: larger;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+background-color:slategrey;
+
+}
+#end{
+
+    align-items: center;
+ 
+}
+footer h4{
+     font-family: Arial, sans-serif;
+    font-size: xxx-large;
+    color:black;
+}
+body{
+    background-color: rgb(238, 228, 228);
+}
+header a{
+    text-decoration: none;
+}
+#location h2{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 60px;
+color: black;
+width: 105%;
+background-color: whitesmoke;
+}
+#Images img{
+    margin-left: 630px;
+    margin-top:-100% ;
+    padding: 20px;
+}
